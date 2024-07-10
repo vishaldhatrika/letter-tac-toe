@@ -1,0 +1,39 @@
+.Tile {
+  display: inline-block;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 60px;
+  border: 1px solid black;
+  margin: 5px;
+  font-size: 24px;
+  color: white;
+  
+  padding: 10px;
+
+  font-family: "Architects Daughter", cursive;
+  font-weight: 700;
+  font-style: normal;
+
+  
+}
+  
+.Letter {
+  font-size: 36px;
+  
+}
+  
+.Score {
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: right;
+  align-self: end;
+}
+  
+.redTile{
+  background-color: var(--custom-red);
+}
+.blueTile{
+  background-color: var(--custom-blue);
+}

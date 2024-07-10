@@ -1,0 +1,12 @@
+.Board {
+  display: block;
+}
+
+.Grid .Row{
+  display: block;
+
+}
+
+.Grid{
+  padding: 40px 0;
+}

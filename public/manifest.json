@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "LTT",
+  "name": "Letter Tac Toe",
+  "description": "Tic tac toe with letters & 3-letter words",
   "icons": [
     {
       "src": "favicon.ico",
